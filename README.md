@@ -1,4 +1,4 @@
-# Flight Price Prediction: 
+# Flight Ticket Price Prediction: 
 
 ## Table of Content
   * [Demo](#demo)
